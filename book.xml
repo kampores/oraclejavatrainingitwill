@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<booklist>
+	<book kind="컴퓨터">
+		<title>java는 쉬워요</title>
+		<author>나뻥순</author>
+		<price>1000</price>
+	</book>
+	<book kind="소설">
+		<title>수지의 삶</title>
+		<author>배수지</author>
+		<price>2000</price>
+	</book>
+</booklist>
